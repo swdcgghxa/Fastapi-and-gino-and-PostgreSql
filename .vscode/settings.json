@@ -1,0 +1,5 @@
+{
+    // $ python -m venv .
+    "python.terminal.activateEnvironment": true,
+    "python.pythonPath": "${env:USERPROFILE}\\Documents\\PythonVenv\\Py39\\Scripts\\python.exe",
+}

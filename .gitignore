@@ -1,0 +1,6 @@
+.env
+alembic.ini
+__pycache__
+*.log
+migrations/versions/*
+*.egg-info
